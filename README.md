@@ -1,7 +1,6 @@
 
 # Football Analytics with Deep Learning and Computer Vision
 > **_Acknowledgment:_** 
-> > [!Acknowledgment]
 > As a fresh data scientist in the field of computer vision, I would like to thank **Hamza Boulahia** ([@hmzbo](https://www.github.com/hmzbo)) for giving me the first step to move forward.
 
 
@@ -19,7 +18,7 @@ Automatically predict teams by analyzing predefined team colors and comparing th
 3. **Tactical Map Representation**:
 Visualize player and ball positions on a tactical map, which helps in understanding the game's dynamics.
 4. **Ball Movement Tracking**:
-Track the ball’s movement throughout the game and calculate meaningful statistics such as ball possession rates.
+Track the ball’s movement throughout the game and calculate meaningful statistics 
 6. **Object Tracking Statistics**:
 Generate statistics such as:
    - Ball possession rate.
